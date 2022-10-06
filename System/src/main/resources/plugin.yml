@@ -1,0 +1,6 @@
+name: System
+version: '${project.version}'
+main: de.ioannistoptsis.Main
+api-version: 1.19
+authors: [ IoannisToptsis ]
+description: Minecraft Survival HUB System Plugin
