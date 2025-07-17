@@ -1,2 +1,1 @@
-# Pixelbrei-Plugins
- Sourcecode for all Pixelbrei Plugin
+This plugin is no longer under active development and will not receive future updates or support.
